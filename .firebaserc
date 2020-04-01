@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "covid-19-api-7ae3b",
+    "covid-19": "covid-19-api-7ae3b"
+  }
+}
